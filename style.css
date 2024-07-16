@@ -1,0 +1,19 @@
+body{
+    background: url(./2022-03-18.jpg);
+    background-size: cover;
+}
+#form {
+    background: url(./2022-03-18.jpg);
+    background-size: cover;
+}
+input{
+    background: url(./2022-03-18.jpg);
+    background-size: cover;
+}
+select{
+    background: url(./2022-03-18.jpg);
+    background-size: cover;
+    color: chocolate;
+
+
+}
